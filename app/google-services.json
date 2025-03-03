@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885740260683",
+    "project_id": "avisor-incivisme",
+    "storage_bucket": "avisor-incivisme.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885740260683:android:60f4b7768ffd17ced1ecce",
+        "android_client_info": {
+          "package_name": "com.example.avisordincivisme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885740260683-qhluim5pd6i79itr8d01umaj27haidi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsCcJ8Z4bCiy-R2777OacGLYzDZzSF-Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885740260683-qhluim5pd6i79itr8d01umaj27haidi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

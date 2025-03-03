@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Avisador Accidentes</string>
+    <string name="title_home">Home</string>
+    <string name="title_reports">Reports</string>
+    <string name="title_maps">Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reports">Reports</string>
+    <string name="map">Map</string>
+    <string name="notifications">Notifications</string>
+    <string name="dashboard">Dashboard</string>
+</resources>
